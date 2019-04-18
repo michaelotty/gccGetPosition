@@ -1,0 +1,16 @@
+xcorr.c.o: xcorr.c rt_nonfinite.h rtwtypes.h gccGetPosition.h \
+ gccGetPosition_types.h xcorr.h ifft.h fft.h
+
+rt_nonfinite.h:
+
+rtwtypes.h:
+
+gccGetPosition.h:
+
+gccGetPosition_types.h:
+
+xcorr.h:
+
+ifft.h:
+
+fft.h:

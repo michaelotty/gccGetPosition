@@ -1,0 +1,13 @@
+gccGetPosition_terminate.c.o: gccGetPosition_terminate.c rt_nonfinite.h \
+ rtwtypes.h gccGetPosition.h gccGetPosition_types.h \
+ gccGetPosition_terminate.h
+
+rt_nonfinite.h:
+
+rtwtypes.h:
+
+gccGetPosition.h:
+
+gccGetPosition_types.h:
+
+gccGetPosition_terminate.h:

@@ -1,0 +1,21 @@
+gccGetPosition.c.o: gccGetPosition.c rt_nonfinite.h rtwtypes.h \
+ gccGetPosition.h gccGetPosition_types.h sqrt.h sind.h asind.h xcorr.h \
+ mean.h
+
+rt_nonfinite.h:
+
+rtwtypes.h:
+
+gccGetPosition.h:
+
+gccGetPosition_types.h:
+
+sqrt.h:
+
+sind.h:
+
+asind.h:
+
+xcorr.h:
+
+mean.h:

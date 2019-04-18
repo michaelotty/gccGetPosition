@@ -1,0 +1,12 @@
+asind.c.o: asind.c rt_nonfinite.h rtwtypes.h gccGetPosition.h \
+ gccGetPosition_types.h asind.h
+
+rt_nonfinite.h:
+
+rtwtypes.h:
+
+gccGetPosition.h:
+
+gccGetPosition_types.h:
+
+asind.h:

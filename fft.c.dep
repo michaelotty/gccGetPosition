@@ -1,0 +1,14 @@
+fft.c.o: fft.c rt_nonfinite.h rtwtypes.h gccGetPosition.h \
+ gccGetPosition_types.h fft.h fft1.h
+
+rt_nonfinite.h:
+
+rtwtypes.h:
+
+gccGetPosition.h:
+
+gccGetPosition_types.h:
+
+fft.h:
+
+fft1.h:
